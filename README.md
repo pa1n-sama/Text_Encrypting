@@ -23,3 +23,19 @@ The application consists of three main scripts:
 1. Clone this repository to your local machine.
 2. Ensure you have Python installed on your system.
 3. Run the GUI script to start the application:
+`main.json`
+5. Follow the on-screen instructions to encrypt or decrypt text.
+
+## Requirements
+
+- Python 3.x
+- Tkinter (usually comes with Python)
+
+## Contributing
+
+Feel free to fork the repository, make improvements, and submit pull requests. We appreciate your contributions to making this application better!
+
+## Acknowledgments
+
+Thank you for checking out this application. If you have any suggestions or feedback, please open an issue or submit a pull request.
+
