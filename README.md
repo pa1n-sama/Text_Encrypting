@@ -23,7 +23,7 @@ The application consists of three main scripts:
 1. Clone this repository to your local machine.
 2. Ensure you have Python installed on your system.
 3. Run the GUI script to start the application:
-`gui_script.json`
+`gui_script.py`
 5. Follow the on-screen instructions to encrypt or decrypt text.
 
 ## Requirements
